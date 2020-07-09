@@ -5,7 +5,6 @@ body{
 
 .cabecalho {
     padding: 3% 4%;
-
 }
 .nossosportifolios{
     width: 100%;
@@ -40,7 +39,8 @@ body{
     padding: 0.5em 1em;
     background-color: #F60;
     color: white;
-    border: 1px;
+    border: 0;
+    border-radius: 6px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); 
     box-shadow: 3px 3px 0px 1px #930;
 
@@ -51,7 +51,6 @@ body{
     border: 0;
     transform: translate(3px, 3px);
 }
-
 .clicar {
-    margin-top: 60px;
+    margin-top: 25px;
 }
