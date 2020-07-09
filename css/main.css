@@ -1,0 +1,57 @@
+body{
+    background-image: url(../img/fundo\ laranja.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cabecalho {
+    padding: 3% 4%;
+
+}
+.nossosportifolios{
+    width: 100%;
+}
+.nossosportifolios h1 {
+    text-align: center;
+    margin-top: 35px;
+    color: white;
+    font-style: italic;
+}
+
+.nossosportifolios h2 {
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+.button {
+    font-family: inherit;
+    cursor: pointer;
+    font-size: 30px;
+}
+.botão {
+    width: 60%;
+    margin-top: -40px;
+    margin-right: 85px;
+}
+.botão button{
+    cursor: pointer;
+    display: inline-block;
+    margin: 1.5em;
+    padding: 0.5em 1em;
+    background-color: #F60;
+    color: white;
+    border: 1px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); 
+    box-shadow: 3px 3px 0px 1px #930;
+
+}
+
+.botão button:active {
+    box-shadow: 0 0 0 0 #930, inset 3px 3px 3px #930;
+    border: 0;
+    transform: translate(3px, 3px);
+}
+
+.clicar {
+    margin-top: 60px;
+}
