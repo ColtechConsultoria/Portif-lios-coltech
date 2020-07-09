@@ -31,8 +31,8 @@ body{
 .botão {
     width: 60%;
     margin-top: -40px;
-    margin-right: 85px;
 }
+
 .botão button{
     cursor: pointer;
     display: inline-block;
