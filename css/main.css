@@ -1,5 +1,8 @@
 body{
     background-image: url(../img/fundo\ laranja.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -11,15 +14,17 @@ body{
 }
 .nossosportifolios h1 {
     text-align: center;
-    margin-top: 35px;
+    margin-top: -16px;
     color: white;
     font-style: italic;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5); 
 }
 
 .nossosportifolios h2 {
     text-align: center;
     margin-top: 30px;
     color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5); 
 }
 
 .button {
